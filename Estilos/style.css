@@ -363,6 +363,10 @@ h3 {
     list-style-position: inside;
 }
 
+.form li {
+    margin: auto 30px;
+}
+
 
 #nome, #email, #telefone, #cidade {
     outline: unset;
