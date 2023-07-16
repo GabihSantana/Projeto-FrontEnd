@@ -1,10 +1,10 @@
 # Projeto-FrontEnd
 Destinado ao Projeto Final da matéria de Front-end.
 <br /> <br />
-O projeto foi desenvolvido de acordo com os conteúdos didáticos passados em sala de aula. Através das aulas, foi orientado a montagem de um site que utilizasse a maior
+O projeto foi desenvolvido de acordo com os conteúdos didáticos passados em sala de aula. Foi orientado a montagem de um site que utilizasse a maior
 quantidade e diversidade do que praticamos em aula. 
 <br />
-Sem um tema específico, através de ideias próprias, montei o site inteiramente do zero, aplicando todo o conhecimento que já possuia e, também, realizei diversas pesquisas para incrementar outras funcionalidades que seriam benéficas para o resultado final. 
+Sem um tema específico, através de ideias próprias, montei o site inteiramente do zero, aplicando todo o conhecimento que já possuia e, também, realizei diversas pesquisas para incrementar outras funcionalidades que seriam benéficas para o resultado final, o que ajudou a compreender funcionalidades tanto de CSS, quanto de JavaScript. 
 <br /> <br />
 A ideia da montagem de um site de viagem fictício veio através de um sonho próprio, que é viajar. Juntei o útil ao agradável e aproveitei cada momento desenvolvendo esse
 projeto e, com certeza, feliz com o resultado final. Utilizei minha criatividade para produzi-lo inteiramente, desde as cores utilizadas até as funcionalidades.
