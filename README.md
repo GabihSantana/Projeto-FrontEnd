@@ -1,5 +1,5 @@
 # Projeto-FrontEnd
-Destinado ao Projeto Final da matéria de Front-end.
+Destinado ao Projeto Final da matéria de Front-end, realizada no Primeiro Semestre da Faculdade de ADS.
 <br /> <br />
 O projeto foi desenvolvido de acordo com os conteúdos didáticos passados em sala de aula. Foi orientado a montagem de um site que utilizasse a maior
 quantidade e diversidade do que praticamos em aula. 
